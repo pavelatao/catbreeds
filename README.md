@@ -28,10 +28,9 @@ Asegúrate de tener instalado Flutter en tu sistema. Si no es así, puedes segui
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/catbreeds_app.git](https://github.com/tu-usuario/catbreeds_app.git)
+    git clone [https://github.com/pavelatao/catbreeds.git](https://github.com/pavelatao/catbreeds.git)
     cd catbreeds_app
     ```
-    *(Asegúrate de cambiar `https://github.com/tu-usuario/catbreeds_app.git` por la URL real de tu repositorio de GitHub o donde esté alojado tu código.)*
 
 2.  **Obtén las dependencias:**
     ```bash
@@ -56,8 +55,6 @@ Una vez que la aplicación esté instalada y en ejecución:
 
 * **Flutter:** Framework para el desarrollo de la interfaz de usuario.
 * **Dart:** Lenguaje de programación.
-* **flutter_native_splash:** Para configurar la pantalla de inicio nativa.
-* *(Aquí puedes añadir cualquier otra dependencia o API externa que uses, por ejemplo, si obtienes los datos de una API de razas de gatos como TheCatAPI)*
     * `http` (para peticiones HTTP)
 
 ## 📄 Licencia
@@ -67,10 +64,9 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ## 📞 Contacto
 
-Tu Nombre - [tu.email@example.com](mailto:tu.email@example.com)
-Tu Perfil de GitHub - [https://github.com/tu-usuario](https://github.com/tu-usuario)
+Pavel Atao Palomino - [apavel041@gmail.com](mailto:apavel041@gmail.com)
+Tu Perfil de GitHub - [https://github.com/pavelatao](https://github.com/pavelatao)
 
-Link del Proyecto: [https://github.com/tu-usuario/catbreeds_app](https://github.com/tu-usuario/catbreeds_app)
-*(Reemplaza `tu-usuario` y `catbreeds_app` con los detalles correctos de tu repositorio.)*
+Link del Proyecto: [https://github.com/pavelatao/catbreeds/](https://github.com/pavelatao/catbreeds/)
 
 ---
