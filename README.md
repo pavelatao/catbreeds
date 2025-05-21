@@ -28,7 +28,7 @@ Asegúrate de tener instalado Flutter en tu sistema. Si no es así, puedes segui
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [https://github.com/pavelatao/catbreeds.git](https://github.com/pavelatao/catbreeds.git)
+    git clone https://github.com/pavelatao/catbreeds.git
     ```
 
 2.  **Obtén las dependencias:**
