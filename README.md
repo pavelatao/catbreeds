@@ -29,7 +29,6 @@ Asegúrate de tener instalado Flutter en tu sistema. Si no es así, puedes segui
 1.  **Clona el repositorio:**
     ```bash
     git clone [https://github.com/pavelatao/catbreeds.git](https://github.com/pavelatao/catbreeds.git)
-    cd catbreeds_app
     ```
 
 2.  **Obtén las dependencias:**
@@ -55,17 +54,20 @@ Una vez que la aplicación esté instalada y en ejecución:
 
 * **Flutter:** Framework para el desarrollo de la interfaz de usuario.
 * **Dart:** Lenguaje de programación.
-    * `http` (para peticiones HTTP)
+* **bloc:** Patrón de arquitectura para la gestión de estado de la aplicación.
+* **flutter_bloc:** Integración de BLoC con Flutter para una gestión de estado reactiva.
+* **equatable:** Facilita la comparación de objetos en Dart, útil con BLoC.
+* **http:** Para realizar peticiones HTTP y consumir APIs externas (por ejemplo, para obtener datos de razas de gatos).
+* **flutter_launcher_icons:** Para generar iconos de lanzamiento adaptativos para iOS y Android.
 
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-*(Si aún no tienes un archivo `LICENSE`, crea uno. La Licencia MIT es una buena opción para proyectos de código abierto.)*
 
 ## 📞 Contacto
 
 Pavel Atao Palomino - [apavel041@gmail.com](mailto:apavel041@gmail.com)
-Tu Perfil de GitHub - [https://github.com/pavelatao](https://github.com/pavelatao)
+Perfil de GitHub - [https://github.com/pavelatao](https://github.com/pavelatao)
 
 Link del Proyecto: [https://github.com/pavelatao/catbreeds/](https://github.com/pavelatao/catbreeds/)
 
